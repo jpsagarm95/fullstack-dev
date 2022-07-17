@@ -27,10 +27,21 @@ h1 {
 
 .itemName {
 	border: 1px solid black;
-	background-color: #ffb3b3;
 	margin: -1px -1px 10px 0px;
 	float: right;
 	font-size: 1.25em;
+}
+
+.chicken {
+	background-color: #ffb3b3;
+}
+
+.beef {
+	background-color: #99ccff;
+}
+
+.sushi {
+	background-color: #ffff99;
 }
 
 .itemDescription {
